@@ -1,4 +1,4 @@
-*Oracle SQL
+# Oracle SQL
 
 
-***Single Row Function & Using Dual Table
+### Single Row Function & Using Dual Table
